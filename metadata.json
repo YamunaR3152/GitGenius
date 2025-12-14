@@ -1,0 +1,5 @@
+{
+  "name": "GitGenius: Repo Analyzer",
+  "description": "AI-powered GitHub repository analyzer that provides code quality scores, executive summaries, and personalized actionable roadmaps using Gemini.",
+  "requestFramePermissions": []
+}
